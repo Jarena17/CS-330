@@ -1,1 +1,2 @@
-# CS-330
+CS 330 has taught me how to apply realistic, interactive, three-dimensional objects through the use of application programming
+interface (API) libraries and best practices. In this course, I learned how to incorporate multiple libraies in order to create a 3D model. CS 330 was different than my other computer sciences courses. You  had to visualize the 3D model you were building and apply mathematical formuals so it would come out correctly. There  are still concepts that I haven't fully grasp yet, but I intended to keep pursuing Opengl after this course. 
